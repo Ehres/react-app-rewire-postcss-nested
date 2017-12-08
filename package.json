@@ -1,0 +1,32 @@
+{
+  "name": "react-app-rewire-postcss-nested",
+  "version": "0.1.0",
+  "description": "Add the postccs-nested plugin to your create-react-app via react-app-rewired",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehres/react-app-rewire-postcss-nested.git"
+  },
+  "keywords": [
+    "webpack",
+    "react-app-rewired",
+    "create-react-app",
+    "postcss",
+    "postcss-nested",
+    "nested",
+    "css"
+  ],
+  "author": "Maxime Grébauval",
+  "license": "MIT",
+  "homepage": "https://github.com/Ehres/react-app-rewire-postcss-nested",
+  "dependencies": {
+    "postcss-loader": "^2.0.9",
+    "postcss-nested": "^2.1.2"
+  },
+  "peerDependencies": {
+    "postcss": "^6.0.9"
+  }
+}
